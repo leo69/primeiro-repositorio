@@ -1,0 +1,17 @@
+Passo a Passo  do GIT:
+
+Passo 0 : Configurar GIT:
+    - git config --global user.name "leo69"
+    - git config --global user.email "mexicanoobmx@gmail.com"
+    - git config --global color .ui true
+Passo 1: Iniciar o GIT, criando um repositório
+    - git init
+Passo 2: Direcionar os arquivos no INDEX
+    _ git add .
+Passo 3: Criar a primeira versão / commit
+    - Git commit -m "primeira versão"
+Passo 4: VEr o status
+    - git status
+Passo 5: Ver log
+    - git log
+Passo 6: git diff: mostrar o que foi alterado no arquivo.
