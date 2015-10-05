@@ -1,0 +1,12 @@
+h1  { 
+      /* propriedade: valor;   */
+    color: saddlebrown;
+}
+
+
+li  { 
+       /* Tirar os pontos  */
+       list-style: none;
+       /* Deixar um ao lado do outro   */
+    display:inline-block;
+}
