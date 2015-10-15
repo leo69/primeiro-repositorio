@@ -1,3 +1,39 @@
+body {   
+    /* Cor do fundo  */
+    background-color: #808080;
+    /* Alterar a Fonte dos textos da página */
+    font-family: 'Indie Flower', cursive;
+
+}
+
+#cabecalho {
+    border: 1px solid #000ss
+    border-radius: 15px;
+    padding: 20px;ss
+    
+    float: left;
+    width: 100%
+}
+
+.logo {
+    float: left;
+}
+
+.menu {
+    float: left;
+    margin-left: 300px;
+    margin-right: 200px;
+    margin-top: 20px;
+}
+
+.form-pesquisa {
+    float: left;
+    margin-top: 20px;
+}
+
+
+
+
 h1  { 
       /* propriedade: valor;   */
     color: saddlebrown;
@@ -9,4 +45,4 @@ li  {
        list-style: none;
        /* Deixar um ao lado do outro   */
     display:inline-block;
-}
+}  
